@@ -13,6 +13,4 @@
 
 #### I'm a Student in Data Science.
 
-- 🔭 I’m currently working on the Google Research Football Kaggle Competition
-- ⚙️ I use daily: `.py`, `.rmd`, `.ipynb`
-- 📫 Reach me: [linkedin.com/in/fournier-paul/](https://www.linkedin.com/in/fournier-paul/)
+- 🔭 I’m currently working on modeling and analysis tools for [Fantasy Premier League](https://fantasy.premierleague.com/entry/35868/event/1)
