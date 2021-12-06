@@ -13,4 +13,4 @@
 
 #### I'm a Student in Data Science.
 
-- 🔭 I’m currently working on modeling and analysis tools for [Fantasy Premier League](https://fantasy.premierleague.com/entry/35868/event/1)
+- 🔭 I’m currently working on modeling and analysis tools for [Fantasy Premier League](https://github.com/Fournierp/FPL)
